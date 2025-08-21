@@ -1,91 +1,57 @@
-# 👋 Hi, I'm Inés Alejandro García Mosqueda (@Ineso1)
+# 🚀 Featured Projects (Video Demos)
 
-> Robotics & Digital Systems Engineer student | Passionate about robotics, control systems, and autonomous vehicles.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines-alejandro-garcia-mosqueda-8128a8237)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-success)](https://portfolio-template-bt3.pages.dev/)
-
----
-
-## 📌 Pinned Projects  
-
-### 🛰️ [Space Apps Challenge 2022](https://github.com/Ineso1/space-apps-challenge-2022)
-ISS tracker and collision avoidance web app.  
-Real-time ISS location + collision alerts.  
-![Demo: ISS Tracker](assets/space-apps.png)  
-[![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
-
----
-
-### ⚡ [BLDC Control Simulator](https://github.com/Ineso1/bldc_control_simulator)
-Python simulator for BLDC motors featuring:  
-- Field-Oriented Control (FOC)  
-- Lyapunov-based PID control  
-- Interactive GUI for motor dynamics  
-
-![Demo: BLDC Simulator](assets/bldc-sim.png)  
-[![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
-
----
-
-### 🚗 [Autonomous Traffic Car](https://github.com/Ineso1/autonomous_traffic_car)
-ROS 2-based differential robot project:  
-- **micro-ROS + CUDA OpenCV** on Jetson  
-- Linear/angular velocity control  
-- Real-time classification  
-
-![Demo: Autonomous Car](assets/autonomous-car.png)  
-[![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
-
----
-
-## 🚀 More Featured Projects  
-
-### 🚁 [Drone Disturbance Rejection Control (FLAIR)](https://github.com/Ineso1/drone_disturbance_rejection_control_flair)
-Framework for drone control with:  
-- Disturbance observers  
-- Multiple flight modes  
-- MATLAB simulation to real hardware  
-
-![Demo: Drone Control](assets/drone-control.png)  
-[![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
-
----
-
-### ✈️ [DroneModelBase MATLAB](https://github.com/Ineso1/DroneModelBase_matlabScripting)
-Quadrotor simulation framework featuring:  
-- Modular controllers & observers  
-- Trajectory tracking  
-- Custom extensions for research  
-
-![Demo: Drone Model](assets/drone-model.png)  
-[![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
-
----
-
-### 🔧 [BLDC FOC Teensy](https://github.com/Ineso1/bldcFOC_teensy)
-Teensy firmware for BLDC motor control:  
-- FOC & trapezoidal algorithms  
-- PID velocity control  
-- Real-time logging  
-
-![Demo: BLDC Teensy](assets/bldc-teensy.png)  
-[![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
-
----
-
-## 🛠️ Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,matlab,arduino,ros,opencv,git,linux&perline=8)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ineso1&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ineso1&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ineso1&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/ines-alejandro-garcia-mosqueda-8128a8237)  
-- [Portfolio](https://portfolio-template-bt3.pages.dev/)  
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/vhkOnLaiGKc">
+        <img src="https://img.youtube.com/vi/vhkOnLaiGKc/0.jpg" width="100%" alt="Space Apps Challenge 2022 Demo"/>
+      </a>
+      <br/>
+      <b>🛰️ Space Apps Challenge 2022</b><br/>
+      ISS tracker & collision avoidance web app
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/vqDC104RrXA">
+        <img src="https://img.youtube.com/vi/vqDC104RrXA/0.jpg" width="100%" alt="BLDC Control Simulator Demo"/>
+      </a>
+      <br/>
+      <b>⚡ BLDC Control Simulator</b><br/>
+      Python simulator with FOC & Lyapunov-based PID
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/cm6aAOt2KGA">
+        <img src="https://img.youtube.com/vi/cm6aAOt2KGA/0.jpg" width="100%" alt="Autonomous Traffic Car Demo"/>
+      </a>
+      <br/>
+      <b>🚗 Autonomous Traffic Car</b><br/>
+      ROS 2 + micro-ROS & CUDA OpenCV on Jetson
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/ZkQhuwi-L_w">
+        <img src="https://img.youtube.com/vi/ZkQhuwi-L_w/0.jpg" width="100%" alt="Drone Disturbance Rejection Demo"/>
+      </a>
+      <br/>
+      <b>🚁 Drone Disturbance Rejection Control</b><br/>
+      Modular framework with disturbance observers
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/7UKesa0KIn0">
+        <img src="https://img.youtube.com/vi/7UKesa0KIn0/0.jpg" width="100%" alt="DroneModelBase MATLAB Demo"/>
+      </a>
+      <br/>
+      <b>✈️ DroneModelBase MATLAB</b><br/>
+      Quadrotor simulation with modular controllers
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/xKXyNwI1S20">
+        <img src="https://img.youtube.com/vi/xKXyNwI1S20/0.jpg" width="100%" alt="BLDC FOC Teensy Demo"/>
+      </a>
+      <br/>
+      <b>🔧 BLDC FOC Teensy</b><br/>
+      Teensy firmware for prec
