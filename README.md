@@ -88,19 +88,15 @@
   </tr>
 
   <tr>
-    <td align="center" width="50%">
-      <a href="https://youtu.be/7UKesa0KIn0">
-        <img src="https://img.youtube.com/vi/7UKesa0KIn0/0.jpg" width="100%" alt="Pioneer Position Control Demo"/>
-      </a>
-      <br/>
-      <b>📡 Pioneer Position Control</b><br/>
-      Position control experiments on a Pioneer robot. <br/>
-      🔗 <a href="https://youtu.be/7UKesa0KIn0">Watch Demo</a>
-    </td>
-  </tr>
-  
-
-  <tr>
+  <td align="center" width="50%">
+    <a href="https://youtu.be/7UKesa0KIn0">
+      <img src="https://img.youtube.com/vi/7UKesa0KIn0/0.jpg" width="100%" alt="Pioneer Position Control Demo"/>
+    </a>
+    <br/>
+    <b>📡 Pioneer Position Control</b><br/>
+    Position control experiments on a Pioneer robot. <br/>
+    🔗 <a href="https://youtu.be/7UKesa0KIn0">Watch Demo</a>
+  </td>
   <td align="center" width="50%">
     <a href="https://github.com/Ineso1/Conversion-de-bici-electrica-">
       <img width="457" height="638" alt="biciEcu" src="https://github.com/user-attachments/assets/efcbe531-6a7c-4058-ad2c-b97379b2878c" />
