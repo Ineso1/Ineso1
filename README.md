@@ -102,8 +102,7 @@
   <tr>
   <td align="center" width="50%">
     <a href="https://github.com/Ineso1/Conversion-de-bici-electrica-">
-      <img src="![biciEcu](https://github.com/user-attachments/assets/a5c03499-f94d-4306-ace3-a6e24e9d3147)" width="100%" alt="Conversion de Bici Electrica"/>
-
+      <img src="https://raw.githubusercontent.com/Ineso1/Conversion-de-bici-electrica-/main/resources/bldc_motor_placeholder.png" width="100%" alt="Conversion de Bici Electrica"/>
     </a>
     <br/>
     <b>⚡ Conversion de Bici Electrica</b><br/>
@@ -111,6 +110,7 @@
     🔗 <a href="https://github.com/Ineso1/Conversion-de-bici-electrica-">View Repository</a>
   </td>
 </tr>
+
 
 
 </table>
