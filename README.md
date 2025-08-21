@@ -129,7 +129,6 @@
   <!-- Tools & Software -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
-  <img src="https://en.wikipedia.org/wiki/File:Ros_logo.svg" alt="ROS2" width="60" height="60"/>
 
 </p>
 
