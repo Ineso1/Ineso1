@@ -102,7 +102,7 @@
   <tr>
   <td align="center" width="50%">
     <a href="https://github.com/Ineso1/Conversion-de-bici-electrica-">
-      <img src="[https://raw.githubusercontent.com/Ineso1/Conversion-de-bici-electrica-/main/resources/bldc_motor_placeholder.png](https://private-user-images.githubusercontent.com/84602829/480317826-4ecd4367-8623-4325-86cd-83c504dbf753.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU3NDk3NTUsIm5iZiI6MTc1NTc0OTQ1NSwicGF0aCI6Ii84NDYwMjgyOS80ODAzMTc4MjYtNGVjZDQzNjctODYyMy00MzI1LTg2Y2QtODNjNTA0ZGJmNzUzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODIxVDA0MTA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzZjJmN2Y3YmIwYmUwOWM4N2EzZGI5MzM1OGU5MWFlMmUwN2Q5MzBkYThhMDQ5ZTQ2ODZiYjA2ODhlZDNlMWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.V3C3we2LbammHgu998NP9n6oJXzUvspta-UQjuTiPMU)" width="100%" alt="Conversion de Bici Electrica"/>
+      <img src="https://raw.githubusercontent.com/Ineso1/Conversion-de-bici-electrica-/main/resources/bldc_motor_placeholder.png" width="100%" alt="Conversion de Bici Electrica"/>
     </a>
     <br/>
     <b>⚡ Conversion de Bici Electrica</b><br/>
@@ -110,6 +110,7 @@
     🔗 <a href="https://github.com/Ineso1/Conversion-de-bici-electrica-">View Repository</a>
   </td>
 </tr>
+
 
 </table>
 
