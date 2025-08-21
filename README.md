@@ -78,7 +78,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Ineso1/SimpleLidarBotSim">
-        <img width="421" height="410" alt="mapaFinal" src="https://github.com/user-attachments/assets/fd750101-f274-47ed-af4f-1d8fa78c6a21" />
+        <img width="1583" height="964" alt="positionComparision1" src="https://github.com/user-attachments/assets/72331958-2be1-4e9d-aab7-acca36690185" />
       </a>
       <br/>
       <b>🤖 SimpleLidarBotSim</b><br/>
