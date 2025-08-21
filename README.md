@@ -125,17 +125,17 @@
   <!-- Robotics & Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ROS" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" alt="CUDA" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/CUDA_logo.svg" alt="CUDA" width="60" height="60"/>
   
   <!-- Hardware -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stm32/stm32-original.svg" alt="STM32" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/STMicroelectronics-logo.svg" alt="STM32" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Teensy" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sensor/sensor-original.svg" alt="Sensors" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Sensor_icon.svg" alt="Sensors" width="60" height="60"/>
   
   <!-- Tools & Software -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freertos/freertos-original.svg" alt="FreeRTOS" width="60" height="60"/>
+  <img src="https://www.freertos.org/images/freertos-logo-small.png" alt="FreeRTOS" width="60" height="60"/>
 </p>
 
 
