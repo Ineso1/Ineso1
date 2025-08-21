@@ -98,6 +98,19 @@
       🔗 <a href="https://youtu.be/7UKesa0KIn0">Watch Demo</a>
     </td>
   </tr>
+  <tr>
+  <td align="center" width="50%">
+    <a href="https://github.com/Ineso1/Conversion-de-bici-electrica-">
+      ![biciEcu](https://github.com/user-attachments/assets/21ec234e-7d8d-4b95-8a2f-afd424f60e8b)
+    </a>
+    <br/>
+    <b>⚡ Conversion de Bici Electrica</b><br/>
+    Embedded software for controlling a BLDC motor using FreeRTOS on STM hardware. Includes telemetry via CAN and multiple controller modules. <br/>
+    🔗 <a href="https://github.com/Ineso1/Conversion-de-bici-electrica-">View Repository</a>
+  </td>
+</tr>
+
 </table>
 
 </div>
+
