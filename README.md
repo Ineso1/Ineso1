@@ -6,7 +6,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://www.youtube.com/watch?v=zma0hUkrPUk">
-        <img src="https://img.youtube.com/vi/zma0hUkrPUk/0.jpg" width="100%" alt="Space Apps Challenge 2022 Demo"/>
+        <img src="https://user-images.githubusercontent.com/84602829/212249521-765e6854-8e4c-41c8-b9a8-9e28f1c2955f.png" width="100%" alt="Space Apps Challenge 2022 Demo"/>
       </a>
       <br/>
       <b>🛰️ Space Apps Challenge 2022</b><br/>
@@ -15,7 +15,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://youtu.be/vhkOnLaiGKc">
-        <img src="https://user-images.githubusercontent.com/84602829/212249521-765e6854-8e4c-41c8-b9a8-9e28f1c2955f.png" width="100%" alt="BLDC Control Simulator"/>
+        <img src="https://github.com/Ineso1/bldc_control_simulator/blob/main/resources/screenShots/control_v3_4.png?raw=true" width="100%" alt="BLDC Control Simulator"/>
       </a>
       <br/>
       <b>⚡ BLDC Control Simulator</b><br/>
@@ -23,6 +23,8 @@
       🔗 <a href="https://github.com/Ineso1/bldc_control_simulator">View Repository</a>
     </td>
   </tr>
+
+  <tr> <td align="center" width="50%"> <a href="https://www.youtube.com/watch?v=zma0hUkrPUk"> <img src="https://img.youtube.com/vi/zma0hUkrPUk/0.jpg" width="100%" alt="Space Apps Challenge 2022 Demo"/> </a> <br/> <b>🛰️ Space Apps Challenge 2022</b><br/> The ISS tracker and collision avoidance web app. <br/> 🔗 <a href="https://github.com/Ineso1/space-apps-challenge-2022">View Repository</a> </td> <td align="center" width="50%"> <a href="https://youtu.be/vhkOnLaiGKc"> <img src="https://github.com/Ineso1/bldc_control_simulator/blob/main/resources/screenShots/control_v3_4.png?raw=true" width="100%" alt="BLDC Control Simulator"/> </a> <br/> <b>⚡ BLDC Control Simulator</b><br/> Python simulator for BLDC motors with FOC & Lyapunov-based PID. <br/> 🔗 <a href="https://github.com/Ineso1/bldc_control_simulator">View Repository</a> </td> </tr>
 
   <tr>
     <td align="center" width="50%">
