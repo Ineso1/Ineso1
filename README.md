@@ -7,21 +7,21 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Pinned Projects  
 
 ### 🛰️ [Space Apps Challenge 2022](https://github.com/Ineso1/space-apps-challenge-2022)
-ISS tracker and collision avoidance web app (forked from Dagon).  
-Allows users to see the **real-time ISS location** and check **collision alerts**.  
+ISS tracker and collision avoidance web app.  
+Real-time ISS location + collision alerts.  
 ![Demo: ISS Tracker](assets/space-apps.png)  
 [![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
 
 ---
 
 ### ⚡ [BLDC Control Simulator](https://github.com/Ineso1/bldc_control_simulator)
-Python simulator for **BLDC motors** featuring:
-- Field-Oriented Control (FOC)
-- Lyapunov-based PID control
-- Visualization of motor dynamics, voltages & speed  
+Python simulator for BLDC motors featuring:  
+- Field-Oriented Control (FOC)  
+- Lyapunov-based PID control  
+- Interactive GUI for motor dynamics  
 
 ![Demo: BLDC Simulator](assets/bldc-sim.png)  
 [![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
@@ -29,21 +29,23 @@ Python simulator for **BLDC motors** featuring:
 ---
 
 ### 🚗 [Autonomous Traffic Car](https://github.com/Ineso1/autonomous_traffic_car)
-ROS 2-based **differential robot** project:  
-- Runs **micro-ROS** and **OpenCV (CUDA)** on Jetson  
-- Real-time navigation using **linear/angular velocities**  
-- Network-shared classification  
+ROS 2-based differential robot project:  
+- **micro-ROS + CUDA OpenCV** on Jetson  
+- Linear/angular velocity control  
+- Real-time classification  
 
 ![Demo: Autonomous Car](assets/autonomous-car.png)  
 [![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
 
 ---
 
+## 🚀 More Featured Projects  
+
 ### 🚁 [Drone Disturbance Rejection Control (FLAIR)](https://github.com/Ineso1/drone_disturbance_rejection_control_flair)
-Drone control framework supporting:  
-- Multiple flight modes  
+Framework for drone control with:  
 - Disturbance observers  
-- MATLAB simulations & seamless transition to real drones  
+- Multiple flight modes  
+- MATLAB simulation to real hardware  
 
 ![Demo: Drone Control](assets/drone-control.png)  
 [![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
@@ -51,10 +53,10 @@ Drone control framework supporting:
 ---
 
 ### ✈️ [DroneModelBase MATLAB](https://github.com/Ineso1/DroneModelBase_matlabScripting)
-Quadrotor simulation framework with:  
-- Modular controllers and observers  
+Quadrotor simulation framework featuring:  
+- Modular controllers & observers  
 - Trajectory tracking  
-- Research-ready extensions  
+- Custom extensions for research  
 
 ![Demo: Drone Model](assets/drone-model.png)  
 [![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
@@ -62,10 +64,10 @@ Quadrotor simulation framework with:
 ---
 
 ### 🔧 [BLDC FOC Teensy](https://github.com/Ineso1/bldcFOC_teensy)
-Embedded firmware for **Teensy** microcontrollers:  
-- BLDC motor control (FOC + trapezoidal)  
+Teensy firmware for BLDC motor control:  
+- FOC & trapezoidal algorithms  
 - PID velocity control  
-- Real-time performance logging  
+- Real-time logging  
 
 ![Demo: BLDC Teensy](assets/bldc-teensy.png)  
 [![Watch Demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://youtu.be/YOUTUBE_ID)
@@ -87,5 +89,3 @@ Embedded firmware for **Teensy** microcontrollers:
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ines-alejandro-garcia-mosqueda-8128a8237)  
 - [Portfolio](https://portfolio-template-bt3.pages.dev/)  
-
----
