@@ -112,11 +112,9 @@
 
 </table>
 
-</div>
-
 ## 🛠️ Technologies & Skills
 
-<div align="center">
+<p align="center">
 
 <!-- Programming -->
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.gif" alt="Python" width="60" height="60"/> 
@@ -142,6 +140,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.gif" alt="Linux" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/freertos/freertos.png" alt="FreeRTOS" width="60" height="60"/>
 
-</div>
+</p>
 
 
