@@ -114,3 +114,34 @@
 
 </div>
 
+## 🛠️ Technologies & Skills
+
+<div align="center">
+
+<!-- Programming -->
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.gif" alt="Python" width="60" height="60"/> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.gif" alt="C++" width="60" height="60"/> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/matlab/matlab.gif" alt="MATLAB" width="60" height="60"/> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.gif" alt="JavaScript" width="60" height="60"/> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/embedded-systems/embedded-systems.png" alt="Embedded C" width="60" height="60"/>
+
+<!-- Robotics & Control -->
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/ros/ros.gif" alt="ROS" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.gif" alt="OpenCV" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/cuda/cuda.gif" alt="CUDA" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/motor-control/motor-control.gif" alt="Motor Control" width="60" height="60"/>
+
+<!-- Hardware -->
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/stm32/stm32.gif" alt="STM32" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/teensy/teensy.png" alt="Teensy" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/sensors/sensors.gif" alt="Sensors" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/can/can.gif" alt="CAN" width="60" height="60"/>
+
+<!-- Tools & Software -->
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.gif" alt="Git" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.gif" alt="Linux" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/freertos/freertos.png" alt="FreeRTOS" width="60" height="60"/>
+
+</div>
+
+
