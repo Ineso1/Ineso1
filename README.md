@@ -98,10 +98,11 @@
       🔗 <a href="https://youtu.be/7UKesa0KIn0">Watch Demo</a>
     </td>
   </tr>
+  
   <tr>
   <td align="center" width="50%">
     <a href="https://github.com/Ineso1/Conversion-de-bici-electrica-">
-      ![biciEcu](https://github.com/user-attachments/assets/21ec234e-7d8d-4b95-8a2f-afd424f60e8b)
+      <img src="https://raw.githubusercontent.com/Ineso1/Conversion-de-bici-electrica-/main/resources/bldc_motor_placeholder.png" width="100%" alt="Conversion de Bici Electrica"/>
     </a>
     <br/>
     <b>⚡ Conversion de Bici Electrica</b><br/>
