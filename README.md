@@ -99,10 +99,11 @@
     </td>
   </tr>
   
+
   <tr>
   <td align="center" width="50%">
     <a href="https://github.com/Ineso1/Conversion-de-bici-electrica-">
-      <img src="https://raw.githubusercontent.com/Ineso1/Conversion-de-bici-electrica-/main/resources/bldc_motor_placeholder.png" width="100%" alt="Conversion de Bici Electrica"/>
+      <img width="457" height="638" alt="biciEcu" src="https://github.com/user-attachments/assets/efcbe531-6a7c-4058-ad2c-b97379b2878c" />
     </a>
     <br/>
     <b>⚡ Conversion de Bici Electrica</b><br/>
