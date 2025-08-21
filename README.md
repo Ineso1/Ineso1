@@ -10,7 +10,8 @@
       </a>
       <br/>
       <b>🛰️ Space Apps Challenge 2022</b><br/>
-      ISS tracker & collision avoidance web app
+      ISS tracker & collision avoidance web app <br/>
+      🔗 <a href="https://github.com/Ineso1/space-apps-challenge-2022">View Repository</a>
     </td>
     <td align="center" width="50%">
       <a href="https://youtu.be/vqDC104RrXA">
@@ -18,7 +19,8 @@
       </a>
       <br/>
       <b>⚡ BLDC Control Simulator</b><br/>
-      Python simulator with FOC & Lyapunov-based PID
+      Python simulator with FOC & Lyapunov-based PID <br/>
+      🔗 <a href="https://github.com/Ineso1/bldc_control_simulator">View Repository</a>
     </td>
   </tr>
   <tr>
@@ -28,7 +30,8 @@
       </a>
       <br/>
       <b>🚗 Autonomous Traffic Car</b><br/>
-      ROS 2 + micro-ROS & CUDA OpenCV on Jetson
+      ROS 2 + micro-ROS & CUDA OpenCV on Jetson <br/>
+      🔗 <a href="https://github.com/Ineso1/autonomous_traffic_car">View Repository</a>
     </td>
     <td align="center" width="50%">
       <a href="https://youtu.be/ZkQhuwi-L_w">
@@ -36,7 +39,8 @@
       </a>
       <br/>
       <b>🚁 Drone Disturbance Rejection Control</b><br/>
-      Modular framework with disturbance observers
+      Modular framework with disturbance observers <br/>
+      🔗 <a href="https://github.com/Ineso1/drone_disturbance_rejection_control_flair">View Repository</a>
     </td>
   </tr>
   <tr>
@@ -46,7 +50,8 @@
       </a>
       <br/>
       <b>✈️ DroneModelBase MATLAB</b><br/>
-      Quadrotor simulation with modular controllers
+      Quadrotor simulation with modular controllers <br/>
+      🔗 <a href="https://github.com/Ineso1/DroneModelBase_matlabScripting">View Repository</a>
     </td>
     <td align="center" width="50%">
       <a href="https://youtu.be/xKXyNwI1S20">
@@ -54,4 +59,10 @@
       </a>
       <br/>
       <b>🔧 BLDC FOC Teensy</b><br/>
-      Teensy firmware for prec
+      Teensy firmware for precise BLDC motor control <br/>
+      🔗 <a href="https://github.com/Ineso1/bldcFOC_teensy">View Repository</a>
+    </td>
+  </tr>
+</table>
+
+</div>
